@@ -22,3 +22,6 @@
 * [in a brush](http://inabrush.com/)
 * [type novel](http://typenovel.tumblr.com/)
 * [typesetwith.me - A typography and legibility sandbox](http://typesetwith.me/)
+
+//My Resources
+* [Beautiful pairing and examples of Google Fonts](http://hellohappy.org/beautiful-web-type/)
