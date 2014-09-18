@@ -57,3 +57,5 @@
 * [extractCSS - Online CSS Extractor](http://extractcss.com/)
 * [h5bp-Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * [kneath-kss](https://github.com/kneath/kss)
+* 
+* [Structure Guidlines](http://www.vittoriozaccaria.net/v2/blog/2014/09/18/introduction-to-the-bem-methodology-(slides).html)
