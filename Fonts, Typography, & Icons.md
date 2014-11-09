@@ -25,3 +25,4 @@
 
 //My Resources
 * [Beautiful pairing and examples of Google Fonts](http://hellohappy.org/beautiful-web-type/)
+* [More google pairing](http://femmebot.github.io/google-type/)
