@@ -99,3 +99,4 @@
 * [toddmotto-echo](https://github.com/toddmotto/echo)
 * [vex](http://github.hubspot.com/vex/)
 * [SVG libraries](http://jqueryhouse.com/svg-javascript-libraries-for-developers/)
+* [Dotted text](https://github.com/BeSite/jQuery.dotdotdot)
