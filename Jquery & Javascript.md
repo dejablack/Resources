@@ -98,3 +98,4 @@
 * [three.js - JavaScript 3D library](http://threejs.org/)
 * [toddmotto-echo](https://github.com/toddmotto/echo)
 * [vex](http://github.hubspot.com/vex/)
+* [SVG libraries](http://jqueryhouse.com/svg-javascript-libraries-for-developers/)
